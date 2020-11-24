@@ -4,5 +4,5 @@
 - cant wait for loader-3.0 :joy:
 - up ur security 🥱<br><br>
 
-So the original GitHub repo of the cracked Pyro Client got taken down apparently so I decided to make one, I guess lol
+*So the original GitHub repo of the cracked Pyro Client got taken down apparently so I decided to make one, I guess lol*
 
